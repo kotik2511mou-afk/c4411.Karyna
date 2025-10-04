@@ -1,6 +1,6 @@
 import logging
 logging.basicConfig(level=logging.DEBUG,
-                    filename="para8.1_logs.log",
+                    filename="para8_1_logs.log",
                     filemode="w",
                     format="we have message:%(asctime)s:@:(levelname)s - %(message)s")
 
